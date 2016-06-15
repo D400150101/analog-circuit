@@ -1,0 +1,28 @@
+Tugas analog 1
+
+-kawat besi        => panjang :0,105 m    => luas penampang :0,0565 m^2     => tahanan : 1 K Ohm
+ Rumus   R=p*l/A
+      1000=p*0,0565/0,105
+      1000=p*0,538
+         p=0,538/1000
+         p=0,000538 Ohm.m
+         
+  Jadi hambatan jenis dari kawat besi adalah 0,000538 Ohm.m
+  
+-uang logam putih  => panjang :0,002 m    => luas penampang :0,08478 m^2    => tahanan : 2 K Ohm
+ Rumus   R=p*l/A
+      2000=p*0,002/0,08478
+      2000=p*0,023
+         p=0,023/2000
+         p=0,0000115 Ohm.m
+         
+  Jadi hambatan jenis dari uang logam putihi adalah 0,0000115 Ohm.m
+  
+-tembaga           => panjang :0,080 m    => luas penampang :0,075 m^2      => tahanan : 30 K Ohm
+ Rumus    R=p*l/A
+      30000=p*0,080/0,075
+      30000=p*1,067
+          p=1,067/30000
+          p=0,0000356 Ohm.m
+         
+  Jadi hambatan jenis dari tembaga adalah 0,0000356 Ohm.m
